@@ -1,0 +1,20 @@
+{
+  "name": "angulartics-scroll",
+  "version": "0.0.1",
+  "main": "./dist/angulartics-scroll.min.js",
+  "dependencies": {
+    "angulartics": "~1.0.0",
+    "waypoints": "4.0.0"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "example",
+    "package.json",
+    "lib/index.js"
+  ],
+  "resolutions": {
+    "waypoints": "4.0.0"
+  }
+}
